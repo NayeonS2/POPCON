@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="gifticon"
+            type="com.ssafy.popcon.dto.Gifticon" />
+
+        <variable
+            name="badge"
+            type="com.ssafy.popcon.dto.Badge" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cv_map_gifticon"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="340dp"
+            android:layout_height="match_parent"
+            android:background="@color/transparent"
+            android:elevation="2dp"
+            app:cardCornerRadius="12dp"
+            app:cardUseCompatPadding="true"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/popcon_white">
+
+                <ImageView
+                    android:id="@+id/iv_product_preview_map"
+                    imageUrl="@{gifticon.product_filepath}"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="15dp"
+                    android:background="@drawable/edge_preview"
+                    android:scaleType="centerCrop"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_brand_map"
+                    style="@style/Bold.Brown"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="25dp"
+
+                    android:text="@{gifticon.brand.brandName}"
+                    android:textSize="15sp"
+                    app:layout_constraintBottom_toTopOf="@+id/tv_name_map"
+                    app:layout_constraintStart_toEndOf="@+id/iv_product_preview_map"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_chainStyle="spread"
+                    tools:text="스타벅스" />
+
+                <TextView
+                    android:id="@+id/tv_name_map"
+                    style="@style/Regular"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:paddingEnd="15dp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@{gifticon.productName}"
+                    android:textSize="12sp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/iv_product_preview_map"
+                    app:layout_constraintTop_toBottomOf="@+id/tv_brand_map"
+                    tools:text="아메리카노 + 블루베리리리리리리리리리리리리리리리" />
+
+                <TextView
+                    android:id="@+id/tv_date_map"
+                    style="@style/Regular.Grey"
+                    date="@{gifticon.due}"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginBottom="10dp"
+                    android:maxLines="1"
+                    android:textSize="11sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/iv_product_preview_map"
+                    app:layout_constraintTop_toBottomOf="@+id/tv_name_map"
+                    tools:text="2022.11.24 까지" />
+
+                <TextView
+                    android:id="@+id/tv_banner_badge_map"
+                    style="@style/Regular.White"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="26dp"
+                    android:layout_marginEnd="12dp"
+                    android:layout_marginBottom="7dp"
+                    android:background="@{badge.color}"
+                    android:elevation="2dp"
+                    android:paddingStart="12dp"
+                    android:paddingTop="1dp"
+                    android:paddingEnd="12dp"
+                    android:paddingBottom="1dp"
+                    android:text="@{badge.content}"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:background="@color/popcon_grey_02"
+                    tools:text="D-DAY"
+                    tools:textColor="@color/popcon_white" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>
