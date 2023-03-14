@@ -256,11 +256,11 @@
 
 ### 매장 시연 영상
 
-![매장시연_Trim](https://user-images.githubusercontent.com/109330614/224973435-ef699f25-0dda-4238-b064-88905b4c81b7.gif)
+![매장시연_Trim](https://user-images.githubusercontent.com/109330614/224975163-08465772-64d6-4251-9ca4-f2b65efe2a1a.gif)
 
 ### 주변 매장 정보 검색
 
-![지도 검색_Trim](https://user-images.githubusercontent.com/109330614/224973329-b8503440-55d2-4f8b-956a-858315659735.gif)
+![지도 검색_Trim](https://user-images.githubusercontent.com/109330614/224975158-69a5f344-33bf-4f7d-a8c1-275e6571c525.gif)
 
 ### 선물 뿌리기
 
@@ -272,11 +272,11 @@
 
 ### 워치 연동 + 사용
 
-![워치폰_Trim_1](https://user-images.githubusercontent.com/109330614/224973615-1268d8e3-1b14-4894-9ee6-74a208815d3a.gif)
+![워치폰_Trim_1](https://user-images.githubusercontent.com/109330614/224975136-47791c14-7e22-4260-8a60-b03750729698.gif)
 
-![워치폰_Trim_2](https://user-images.githubusercontent.com/109330614/224973560-9a217c16-32ab-4ce6-bedf-3c17dda413bb.gif)
+![워치폰_Trim_2](https://user-images.githubusercontent.com/109330614/224975150-3d7c64ee-d01a-4f66-99bc-eb03f9bdf485.gif)
 
-![워치폰_Trim_3](https://user-images.githubusercontent.com/109330614/224973592-231a40ac-ba5e-45a2-a06e-337c15796eed.gif)
+![워치폰_Trim_3](https://user-images.githubusercontent.com/109330614/224975155-9a706188-5c93-4e19-8c23-9efd8365bd7c.gif)
 
 ### 워치 선물 뿌리기
 
