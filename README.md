@@ -1,6 +1,6 @@
 # 공통 프로젝트 D201
 
-![Untitled](/uploads/fe806a353506265ac7ecd3fffdc0cd0d/Untitled.png)
+![로고](https://user-images.githubusercontent.com/109330614/224963582-f3191ac5-297e-4841-b834-84028e5b3920.png)
 
 # **🔖 프로젝트 소개**
 
@@ -28,7 +28,7 @@
 
 # **📚 기술스택**
 
-![Untitled_1](/uploads/31a7bef1fae000b0ee56d76cc87bf9d1/Untitled_1.png)
+![기술스택](https://user-images.githubusercontent.com/109330614/224963488-bbb02aa9-2c8a-4e0d-8a65-9e8213c196a3.png)
 
 | 분야 | 사용기술 |
 | --- | --- |
@@ -43,13 +43,13 @@
 
 # 🧬 **아키텍처**
 
-![Untitled_2](/uploads/2cdf776cdbc3e8a593f84b83166c9b89/Untitled_2.png)
+![아키텍쳐](https://user-images.githubusercontent.com/109330614/224964419-321818cc-104a-4a1e-91f9-71693b5d7f1c.png)
 
 ---
 
 # 🔑 ERD
 
-![Untitled_3](/uploads/e58669389a57b9fd7d7cfd6d489df7b2/Untitled_3.png)
+![ERD](https://user-images.githubusercontent.com/109330614/224963352-c7088e06-d784-4c80-aaa6-c24160241683.png)
 
 ---
 
@@ -228,67 +228,71 @@
 
 ### 로그인
 
-![_EC_86_8C_EC_85_9C__EB_A1_9C_EA_B7_B8_EC_9D_B8](/uploads/bcb22336f7e3dc386c066120a2a59319/_EC_86_8C_EC_85_9C__EB_A1_9C_EA_B7_B8_EC_9D_B8.gif)
+![로그인](https://user-images.githubusercontent.com/109330614/224963714-70d3d34a-401d-4023-a9f6-cc56685a2d1d.gif)
 
 ### 조회, 수정, 삭제
 
-![_EC_88_98_EC_A0_95__EC_82_AD_EC_A0_9C](/uploads/5af68f5b6fa82732233094b73a72702b/_EC_88_98_EC_A0_95__EC_82_AD_EC_A0_9C.gif)
+![조회수정삭제](https://user-images.githubusercontent.com/109330614/224964842-6691d667-0846-4fd4-8e6d-b2701b7edc33.gif)
 
 ### 사용, 히스토리
 
-![_EC_82_AC_EC_9A_A9__ED_9E_88_EC_8A_A4_ED_86_A0_EB_A6_AC](/uploads/09645e74f86de77fb7ed8cea6d11c2db/_EC_82_AC_EC_9A_A9__ED_9E_88_EC_8A_A4_ED_86_A0_EB_A6_AC.gif)
+![사용히스토리](https://user-images.githubusercontent.com/109330614/224964381-d3d59df9-befa-415f-b4f5-91ac91231f03.gif)
 
 ### 기프티콘 등록
 
-![_EB_93_B1_EB_A1_9D](/uploads/5b0aefd7f719b5f2ffa111385beea2d6/_EB_93_B1_EB_A1_9D.gif)
+![기프티콘 등록](https://user-images.githubusercontent.com/109330614/224963501-61264257-2bf9-4f6e-92e4-623ee3c85999.gif)
 
 ### 갤러리 저장으로 등록
 
-![_EA_B0_A4_EB_9F_AC_EB_A6_AC_EC_A0_80_EC_9E_A5](/uploads/78d57fa02707cb0b193f53eb593e8741/_EA_B0_A4_EB_9F_AC_EB_A6_AC_EC_A0_80_EC_9E_A5.gif)
+![갤러리저장으로등록](https://user-images.githubusercontent.com/109330614/224963456-5026ee18-5c81-413a-9659-bc5a8b78a7f4.gif)
 
 ### MMS 수신으로 등록
 
-![MMS_EC_A0_80_EC_9E_A5](/uploads/389196e5897ae7a2c4c2a7d2a0a4a0d5/MMS_EC_A0_80_EC_9E_A5.gif)
+![MMS수신으로등록](https://user-images.githubusercontent.com/109330614/224963424-4c650f83-24ef-4c15-a4c8-ee97137b453f.gif)
 
 ### 위치기반 기프티콘 사용
 
-![_EC_89_90_EC_9D_B4_ED_81_AC](/uploads/4d25e1c695e29413e90059048242bcc8/_EC_89_90_EC_9D_B4_ED_81_AC.gif)
+![위치기반기프티콘사용](https://user-images.githubusercontent.com/109330614/224964820-27e88335-fc88-4f7f-a6f9-b98722608ea4.gif)
 
 ### 매장 시연 영상
 
-![_EB_A7_A4_EC_9E_A5__EC_8B_9C_EC_97_B0](/uploads/87c1324574a59d94af4ea35d3e271c2b/_EB_A7_A4_EC_9E_A5__EC_8B_9C_EC_97_B0.gif)
+![매장시연_Trim](https://user-images.githubusercontent.com/109330614/224973435-ef699f25-0dda-4238-b064-88905b4c81b7.gif)
 
 ### 주변 매장 정보 검색
 
-![_EB_A7_A4_EC_9E_A5_EA_B2_80_EC_83_89](/uploads/e7e6a3009e9870e09fc78a60483e6ee7/_EB_A7_A4_EC_9E_A5_EA_B2_80_EC_83_89.gif)
+![지도 검색_Trim](https://user-images.githubusercontent.com/109330614/224973329-b8503440-55d2-4f8b-956a-858315659735.gif)
 
 ### 선물 뿌리기
 
-![_EC_84_A0_EB_AC_BC](/uploads/03608386987978bdb0e9bcf72c0e8fc7/_EC_84_A0_EB_AC_BC.gif)
+![선물뿌리기](https://user-images.githubusercontent.com/109330614/224964397-08217a20-321a-40e9-afbb-5e78d7e3c605.gif)
 
 ### 선물 줍기, 감사인사
 
-![_EC_A4_8D_EA_B8_B0](/uploads/84343cdb686813fbc995d48b99a98c11/_EC_A4_8D_EA_B8_B0.gif)
+![선물줍기 감사인사](https://user-images.githubusercontent.com/109330614/224964404-01ec601c-eb2e-4919-9e13-6d4675868d10.gif)
 
 ### 워치 연동 + 사용
 
-![_EC_9B_8C_EC_B9_98](/uploads/e1522cf85241073fa5c37ac0cd57fb7f/_EC_9B_8C_EC_B9_98.gif)
+![워치폰_Trim_1](https://user-images.githubusercontent.com/109330614/224973615-1268d8e3-1b14-4894-9ee6-74a208815d3a.gif)
+
+![워치폰_Trim_2](https://user-images.githubusercontent.com/109330614/224973560-9a217c16-32ab-4ce6-bedf-3c17dda413bb.gif)
+
+![워치폰_Trim_3](https://user-images.githubusercontent.com/109330614/224973592-231a40ac-ba5e-45a2-a06e-337c15796eed.gif)
 
 ### 워치 선물 뿌리기
 
-![_EC_9B_8C_EC_B9_982](/uploads/449af4015091057c75c02da7e7177542/_EC_9B_8C_EC_B9_982.gif)
+![워치선물뿌리기](https://user-images.githubusercontent.com/109330614/224964424-5f0306f7-8eab-4513-8092-e28ce1ab555d.gif)
 
 ### 설정화면
 
-![_EC_95_8C_EB_A6_BC__EC_84_A4_EC_A0_95](/uploads/e5930f4c952b3d2afb8a2739850ad761/_EC_95_8C_EB_A6_BC__EC_84_A4_EC_A0_95.gif)
+![설정화면](https://user-images.githubusercontent.com/109330614/224964412-b19a87c1-f0a7-4468-ac7f-f7cbb991647c.gif)
 
 ### 푸시 알림 : 레벨업
 
-![_EB_A0_88_EB_B2_A8_EC_97_85](/uploads/4997911c2d53c09be05b384737f82b8e/_EB_A0_88_EB_B2_A8_EC_97_85.gif)
+![레벨업푸시알림](https://user-images.githubusercontent.com/109330614/224963647-05935615-d695-4ca2-bc69-c500a62be08d.gif)
 
 ### 레벨별 프로필 이미지
 
-![_EB_A0_88_EB_B2_A8_EB_B3_84__EC_9D_B4_EB_AF_B8_EC_A7_80](/uploads/2dc689fe3ec21d3fd968fd581c3be397/_EB_A0_88_EB_B2_A8_EB_B3_84__EC_9D_B4_EB_AF_B8_EC_A7_80.gif)
+![레벨별프로필이미지](https://user-images.githubusercontent.com/109330614/224963518-fae8a419-9b51-4224-a149-ee1c1b0c6b4c.gif)
 
 ### 유효기간 만료전 푸시알림
 
